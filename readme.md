@@ -1,6 +1,6 @@
-#My Resume/CV
+# My Resume/CV
 
-##Build requirements
+## Build requirements
 
 ```
 apt install texlive texlive-latex-extra
